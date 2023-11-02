@@ -9,7 +9,7 @@ export default function App() {
         alignItems: "center",
       }}
     >
-      <Text>Universal React with Expso</Text>
+      <Text>Universal React with Expstertero</Text>
     </View>
   );
 }
